@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\signupapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\signupapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|c:\\users\\daniel\\desktop\\02 work\\01 coding\\02 backend\\05 c#\\signupapi\\signupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B8474E-0A8C-4072-A861-30D1269EF528}|SignUpApi\\SignUpApi.csproj|solutionrelative:signupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\.gitignore",
+              "RelativeDocumentMoniker": "SignUpApi\\.gitignore",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\.gitignore",
+              "RelativeToolTip": "SignUpApi\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T16:02:17.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Dockerfile",
+              "RelativeDocumentMoniker": "SignUpApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Dockerfile",
+              "RelativeToolTip": "SignUpApi\\Dockerfile",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T13:34:54.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SignUpApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SignUpApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:42:49.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Program.cs",
+              "RelativeDocumentMoniker": "SignUpApi\\Program.cs",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Program.cs",
+              "RelativeToolTip": "SignUpApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:40:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SignUpApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\appsettings.json",
+              "RelativeToolTip": "SignUpApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T12:40:27.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SignUpApi\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "SignUpApi\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:49:50.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SignUpApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SignUpApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T10:49:48.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpApi.csproj",
+              "DocumentMoniker": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\SignUpApi.csproj",
+              "RelativeDocumentMoniker": "SignUpApi\\SignUpApi.csproj",
+              "ToolTip": "C:\\Users\\daniel\\Desktop\\02 Work\\01 Coding\\02 Backend\\05 C#\\SignUpApi\\SignUpApi\\SignUpApi.csproj",
+              "RelativeToolTip": "SignUpApi\\SignUpApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T10:49:46.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
